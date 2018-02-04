@@ -379,7 +379,16 @@ a:focus, a:hover, a:active {
   border-color: #1a252f;
 }
 
-.profile {
-  border-radius: 100%;
+.profile-container {
+  overflow: hidden;
+  height: 230px;
   width: 20%;
+  border-radius: 50%;
+}
+
+.profile {
+  object-fit: cover;
+  width: 100%;
+  position: relative;
+  top: -30px;
 }
