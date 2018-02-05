@@ -382,7 +382,7 @@ a:focus, a:hover, a:active {
 .profile-container {
   overflow: hidden;
   height: 230px;
-  width: 20%;
+  width: 230px;
   border-radius: 50%;
 }
 
