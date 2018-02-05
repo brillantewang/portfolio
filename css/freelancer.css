@@ -61,6 +61,10 @@ section h2 {
   line-height: 2rem;
 }
 
+strong {
+  font-weight: bold;
+}
+
 @media (min-width: 992px) {
   section h2 {
     font-size: 3rem;
